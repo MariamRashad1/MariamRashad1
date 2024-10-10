@@ -41,8 +41,8 @@
 ---
 
 ### 🚀 Projects:
-- **[Project 1 Name]** - A full-stack application built using React and Node.js, designed to streamline project management tasks.
-- **[Project 2 Name]** - A responsive website for an e-commerce platform built with HTML, CSS, and JavaScript.
+- **[Project 1 Name](https://github.com/MariamRashad6/your-project-1)** - A full-stack application built using React and Node.js, designed to streamline project management tasks.
+- **[Project 2 Name](https://github.com/MariamRashad6/your-project-2)** - A responsive website for an e-commerce platform built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -69,6 +69,3 @@
 <p align="center">
   <img src="https://github.com/MariamRashad6/MariamRashad6/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
-
