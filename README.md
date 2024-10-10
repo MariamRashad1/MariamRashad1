@@ -62,7 +62,7 @@
 
 ### 🚀 Projects:
 - **[Project 1 Name](https://github.com/MariamRashad6/your-project-1)** - A full-stack application built using React and Node.js, designed to streamline project management tasks.
-- **[Project 2 Name](https://github.com/MariamRashad6/your-project-2)** - A responsive website for an e-commerce platform built with HTML, CSS, and JavaScript.
+- **[Power Pi](https://github.com/MariamRashad1/powerpi-/tree/main)** - powerpi project.
 
 ---
 
