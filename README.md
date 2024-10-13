@@ -53,6 +53,8 @@ An advanced tool using **OpenCV** and **Python** to automate white blood cell se
 
 - **Tech Stack**: ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv)
 
+### [Powerbi](https://github.com/MariamRashad1/powerbi)
+powebi project
 ---
 
 ## 📊 GitHub Stats
