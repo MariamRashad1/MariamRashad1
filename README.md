@@ -1,25 +1,11 @@
 # Mariam Rashad
 
-**Frontend Developer | Teaching Assistant | Computer Science Enthusiast**
-📧 mariamrashad062@gmail.com  
-📱 +201203662669  
+**Frontend Developer**
 🔗 [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287) | [GitHub](https://github.com/MariamRashad6) | [Personal Portfolio](https://mariamrashad6.github.io/Devfolio/)
 
 ---
 
 
-## Experience
-
-**Teaching Assistant**  
-**Egypt Japan University for Science and Technology**  
-October 2023 - January 2025  
-Borg El Arab, Egypt
-
-- Assisted with course material preparation and conducted tutorial sessions.
-- Provided one-on-one guidance to students and facilitated hands-on lab activities.
-- Relevant Courses: Software Process, Software Design, Compiler Design, System Analysis and Design, Intelligent Systems, Fundamentals of Programming, Embedded Systems, Blockchain, Data Security, Web Programming.
-
----
 
 ## Projects
 
