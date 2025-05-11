@@ -1,32 +1,12 @@
 # Mariam Rashad
 
 **Frontend Developer | Teaching Assistant | Computer Science Enthusiast**
-
-📍 Alexandria, Egypt  
 📧 mariamrashad062@gmail.com  
 📱 +201203662669  
 🔗 [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287) | [GitHub](https://github.com/MariamRashad6) | [Personal Portfolio](https://mariamrashad6.github.io/Devfolio/)
 
 ---
 
-## Objective
-
-Driven and detail-oriented frontend developer passionate about creating visually appealing, user-friendly, and responsive web interfaces. Skilled in translating design concepts into functional applications using modern frontend technologies. Seeking to contribute innovative solutions and deliver exceptional user experiences while continuously improving skills and staying up-to-date with the latest trends in web development.
-
----
-
-## Education
-
-**Arab Academy for Science and Technology**  
-**Master's in Computer Science** (April 2024 - January 2025)  
-Alexandria, Egypt  
-
-**Arab Academy for Science and Technology**  
-**Bachelor's in Computer Science** (September 2019 - July 2023)  
-GPA: 3.89/4.00  
-Alexandria, Egypt
-
----
 
 ## Experience
 
