@@ -1,16 +1,100 @@
-## Hi there 👋
+# Mariam Rashad
 
-<!--
-**MariamRashad1/MariamRashad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Teaching Assistant | Computer Science Enthusiast**
 
-Here are some ideas to get you started:
+📍 Alexandria, Egypt  
+📧 mariamrashad062@gmail.com  
+📱 +201203662669  
+🔗 [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287) | [GitHub](https://github.com/MariamRashad6) | [Personal Portfolio](https://mariamrashad6.github.io/Devfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Objective
+
+Driven and detail-oriented frontend developer passionate about creating visually appealing, user-friendly, and responsive web interfaces. Skilled in translating design concepts into functional applications using modern frontend technologies. Seeking to contribute innovative solutions and deliver exceptional user experiences while continuously improving skills and staying up-to-date with the latest trends in web development.
+
+---
+
+## Education
+
+**Arab Academy for Science and Technology**  
+**Master's in Computer Science** (April 2024 - January 2025)  
+Alexandria, Egypt  
+
+**Arab Academy for Science and Technology**  
+**Bachelor's in Computer Science** (September 2019 - July 2023)  
+GPA: 3.89/4.00  
+Alexandria, Egypt
+
+---
+
+## Experience
+
+**Teaching Assistant**  
+**Egypt Japan University for Science and Technology**  
+October 2023 - January 2025  
+Borg El Arab, Egypt
+
+- Assisted with course material preparation and conducted tutorial sessions.
+- Provided one-on-one guidance to students and facilitated hands-on lab activities.
+- Relevant Courses: Software Process, Software Design, Compiler Design, System Analysis and Design, Intelligent Systems, Fundamentals of Programming, Embedded Systems, Blockchain, Data Security, Web Programming.
+
+---
+
+## Projects
+
+### [Devfolio](https://mariamrashad6.github.io/Devfolio/)  
+**Responsive Portfolio Website**  
+Tools: HTML, CSS, Bootstrap  
+
+- Created a responsive portfolio website to showcase projects and services.
+- Applied HTML, CSS, JavaScript, and Bootstrap for seamless responsiveness across devices.
+- Designed a user-friendly navigation system and implemented responsive design principles.
+
+### [Mealify](https://mariamrashad6.github.io/Mealify/)  
+**Restaurant Website**  
+Tools: HTML, CSS  
+
+- Developed the frontend for a restaurant website with engaging animations and night mode.
+- Ensured responsiveness across various devices with HTML and CSS.
+- Enhanced the user experience through dynamic and visually appealing components.
+
+### [Padel Hub](https://github.com/MariamRashad6/Padel-Hub)  
+**VR Padel Training Simulator** (Graduation Project)  
+Tools: Unity, Oculus Quest 2  
+
+- Led the development of a VR padel simulation game.
+- Designed the virtual environment and implemented physics-based interactions.
+- Utilized Unity and Oculus Quest 2 for a fully immersive VR experience.
+- Coordinated the project as Team Leader, ensuring a captivating and interactive VR environment.
+
+---
+
+## Skills
+
+- **Programming Languages**: Java, Python, JavaScript
+- **Web Technologies**: HTML, CSS, Bootstrap, React
+- **Database Systems**: MySQL
+- **Cloud Technologies**: AWS
+- **Version Control**: GitHub
+- **Other Tools & Technologies**: Unity, Blender, VSCode
+- **Research Skills**: Literature Review, Technical Writing, Project Management
+
+---
+
+## Contact
+
+Feel free to reach out via email: [mariamrashad062@gmail.com](mailto:mariamrashad062@gmail.com).
+
+You can also check out my projects on GitHub:
+- [Devfolio Portfolio](https://mariamrashad6.github.io/Devfolio/)
+- [Mealify Restaurant Website](https://mariamrashad6.github.io/Mealify/)
+- [Padel Hub VR Project](https://github.com/MariamRashad6/Padel-Hub)
+
+---
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287)
+- [GitHub](https://github.com/MariamRashad6)
+
