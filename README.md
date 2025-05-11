@@ -28,9 +28,10 @@
 
 ## 🚀 Projects
 
-### [🎯 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### [🎯 Cookies Shop Dashboard](https://github.com/MariamRashad1/cookies-shop-dashboard)  
+This Power BI project provides data-driven insights into business performance, focusing on metrics such as sales trends, customer behavior, product analysis, and geographic performance.
+The dashboard is designed to support stakeholders in making informed decisions through visual and interactive analytics. 
+**Tools:** powerbi 
 
 ### [👩‍💻 [Project Name]]([Project URL])  
 [Short description of the project]  
