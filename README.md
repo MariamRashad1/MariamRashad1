@@ -1,66 +1,71 @@
-# Mariam Rashad
 
-**Frontend Developer**
-🔗 [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287) | [GitHub](https://github.com/MariamRashad6) | [Personal Portfolio](https://mariamrashad6.github.io/Devfolio/)
+<h2 align="left">Hi 👋! I'm [Your Name]</h2>
 
----
-
-
-
-## Projects
-
-### [Devfolio](https://mariamrashad6.github.io/Devfolio/)  
-**Responsive Portfolio Website**  
-Tools: HTML, CSS, Bootstrap  
-
-- Created a responsive portfolio website to showcase projects and services.
-- Applied HTML, CSS, JavaScript, and Bootstrap for seamless responsiveness across devices.
-- Designed a user-friendly navigation system and implemented responsive design principles.
-
-### [Mealify](https://mariamrashad6.github.io/Mealify/)  
-**Restaurant Website**  
-Tools: HTML, CSS  
-
-- Developed the frontend for a restaurant website with engaging animations and night mode.
-- Ensured responsiveness across various devices with HTML and CSS.
-- Enhanced the user experience through dynamic and visually appealing components.
-
-### [Padel Hub](https://github.com/MariamRashad6/Padel-Hub)  
-**VR Padel Training Simulator** (Graduation Project)  
-Tools: Unity, Oculus Quest 2  
-
-- Led the development of a VR padel simulation game.
-- Designed the virtual environment and implemented physics-based interactions.
-- Utilized Unity and Oculus Quest 2 for a fully immersive VR experience.
-- Coordinated the project as Team Leader, ensuring a captivating and interactive VR environment.
+<h3 align="center">💻 [Your Profession] | Passionate about creating modern, responsive web experiences</h3>
 
 ---
 
-## Skills
+## 🛠 Tech Stack
 
-- **Programming Languages**: Java, Python, JavaScript
-- **Web Technologies**: HTML, CSS, Bootstrap, React
-- **Database Systems**: MySQL
-- **Cloud Technologies**: AWS
-- **Version Control**: GitHub
-- **Other Tools & Technologies**: Unity, Blender, VSCode
-- **Research Skills**: Literature Review, Technical Writing, Project Management
 
----
 
-## Contact
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+</div>
 
-Feel free to reach out via email: [mariamrashad062@gmail.com](mailto:mariamrashad062@gmail.com).
 
-You can also check out my projects on GitHub:
-- [Devfolio Portfolio](https://mariamrashad6.github.io/Devfolio/)
-- [Mealify Restaurant Website](https://mariamrashad6.github.io/Mealify/)
-- [Padel Hub VR Project](https://github.com/MariamRashad6/Padel-Hub)
+- **Languages**: Java, Python, JavaScript, PHP  
+- **Web Technologies**: HTML5, CSS3, Bootstrap  
+- **Frameworks/Libraries**: React  
+- **Databases**: MySQL  
+- **Cloud**: AWS  
+- **Tools**: GitHub, [Any other tools you use]
 
 ---
 
-## Let's Connect!
+## 🚀 Projects
 
-- [LinkedIn](https://www.linkedin.com/in/mariam-rashad-13428b287)
-- [GitHub](https://github.com/MariamRashad6)
+### [🎯 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
 
+### [👩‍💻 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🍽️ [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🏓 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🧬 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+---
+
+## 📫 Let's Connect!
+
+<div align="left">
+  <a href="mailto:[Your Email]" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="[Your LinkedIn]" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="[Your GitHub]" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
