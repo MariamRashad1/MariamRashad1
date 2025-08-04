@@ -27,9 +27,9 @@
 
 ## 🚀 Projects
 
-### [🎯 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### [🎯 [Cookies Shop Sales Dashboard]]([https://github.com/MariamRashad1/cookies-pi])  
+powerbi project
+**Tools:** [powerbi,....]  
 
 ### [👩‍💻 [Project Name]]([Project URL])  
 [Short description of the project]  
