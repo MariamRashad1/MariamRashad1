@@ -27,7 +27,7 @@
 
 ## 🚀 Projects
 
-### [🎯 [Cookies Shop Sales Dashboard]]([https://github.com/MariamRashad1/cookies-pi])  
+### [🎯 [Cookies Shop Sales Dashboard]](https://github.com/MariamRashad1/cookies-pi)  
 powerbi project
 **Tools:** [powerbi,....]  
 
