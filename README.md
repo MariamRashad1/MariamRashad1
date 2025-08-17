@@ -27,8 +27,8 @@
 
 ## 🚀 Projects
 
-### [🎯 [Project Name]]([Project URL])  
-[Short description of the project]  
+### [🎯 [Cookies Shop Dashvoard]](https://github.com/MariamRashad1/cookies-pi)  
+[powerbi project]  
 **Tools:** [List of tools used]  
 
 ### [👩‍💻 [Project Name]]([Project URL])  
